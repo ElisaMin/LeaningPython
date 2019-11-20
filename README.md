@@ -4,6 +4,14 @@
 sqlite死活整不上，佛了。
 换别的算了
 ```
+```log
+Traceback (most recent call last):
+  File "C:/Users/Administrator/PycharmProjects/untitled/test.py", line 78, in <module>
+    main()
+  File "C:/Users/Administrator/PycharmProjects/untitled/test.py", line 69, in main
+    for intabe in table:
+TypeError: 'NoneType' object is not iterable
+```
 ## 2019.11.07
 ```
 下好PyCham就开整了奥，用python写了Java的作业。
